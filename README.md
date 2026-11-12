@@ -1,5 +1,5 @@
 
-# SVD Recommender System
+# Matrix Factorization Recommender
 
 Code (from scratch, in numpy/scipy) for a movie recommender: truncated SVD of the ratings matrix, a bias baseline, and matrix factorization with alternating least squares.
 
